@@ -144,7 +144,7 @@ ruff==0.15.20
 s3fs==2026.6.0
 s3transfer==0.19.0
 scikit-learn==1.9.0
-scipy==1.18.0
+scipy>=1.17.0
 scmrepo==3.6.2
 semver==3.0.4
 setuptools==82.0.1
