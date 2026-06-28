@@ -15,7 +15,7 @@ jobs:
       - name: Check Health Endpoint
         # ЗАМЕНИТЕ URL на прямую ссылку вашего спейса!
         run: |
-          curl --fail https://m1nat04ka/iris-api-bakhtin.hf.space/health
+          curl --fail https://m1nat04ka-iris-api-bakhtin.hf.space/health
 
       - name: Create Issue on Failure
         # Этот шаг выполнится ТОЛЬКО если curl выдаст ошибку(сервер лежит)
