@@ -1,0 +1,1 @@
+dvc remote add -d myremote ../dvc_storage
